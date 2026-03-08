@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1772959873
+::res://::1772960719
 icon.svg::CompressedTexture2D::6271036380867842718::1772959306::1772959873::1::::<><><>0<>0<>e2ac4d14a414593f00a27770ebc2d9eb<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 player.gd::GDScript::4402901445744305080::1772959822::0::1::::<>CharacterBody2D<><>0<>0<><>::
 player.tscn::PackedScene::8691913167074117130::1772959824::0::1::::<><><>0<>0<><>::uid://b3y2e46w7c62w::::res://player.gd
